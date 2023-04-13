@@ -20,3 +20,6 @@ The names of the matlab files use a naming convention. The file names are fixed 
 * 09 = min
 
 The link to the data: https://c3.ndc.nasa.gov/dashlink/members/4/resources/?type=ds
+
+Key points from the research paper: https://docs.google.com/document/d/1FZSmRY9rOHgaNhxUc6Jp5NQM58naxhGpALTHrVUjGQw/edit?usp=sharing
+
