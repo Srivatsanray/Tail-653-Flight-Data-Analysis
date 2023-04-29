@@ -27,5 +27,7 @@ Key points from the research paper: https://docs.google.com/document/d/1FZSmRY9r
 
 Going ahead with preprocessing: https://docs.google.com/document/d/1kVnRk63tSMOp1wfyopW8_8w96p-sz2IP4fnh762tzBU/edit?usp=sharing
 
+Important parameters to go ahead with: https://docs.google.com/document/d/1GRh7Yk-36YsXbfjd1AyD81fcHG2x8teIecTTfc8catc/edit?usp=share_link
+
 
 
