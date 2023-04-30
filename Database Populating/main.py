@@ -8,7 +8,7 @@ def main():
     connection = connect.connect()
 # cursor object that deals with making changes in our database
     mycursor = connection.cursor()
-
+# Get the column names, data -- contained in freq and the path to the .mat files
     col, freq, path = reader()
 
     insert(freq, col, path, connection, mycursor)
