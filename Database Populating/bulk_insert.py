@@ -23,8 +23,9 @@ def insert(freq, col, path, connection, cursor):
 
     var = [date] * len(freq[0])
 
-    freq.append(var)
+    freq.append(var) # Appending date into our 2d array
 
+    # Transpose of the 2d array
     freq = list(zip(*freq))
     # this is to identify the paritcular row index to
     # insert
